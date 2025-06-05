@@ -180,6 +180,7 @@ C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\ne
 C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\ReqnrollProject2025.AssemblyInfoInputs.cache
 C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\ReqnrollProject2025.AssemblyInfo.cs
 C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\ReqnrollProject2025.csproj.CoreCompileInputs.cache
+C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\ReqnrollProject2025.sourcelink.json
 C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\Reqnroll.E134F357.Up2Date
 C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\ReqnrollProject2025.dll
 C:\Users\paldh\source\repos\ReqnrollProject2025\ReqnrollProject2025\obj\Debug\net8.0\refint\ReqnrollProject2025.dll
